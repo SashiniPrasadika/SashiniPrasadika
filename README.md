@@ -1,32 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head
-      
-</head>
-<body>
-    <div class="container">
-     < img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
-        <h1>About Me</h1>
-        <p>
-            🧑‍🎓 I’m an Undergraduate from the Department of Software  Engineering at <br>
-            <strong>General Sir John Kotelawala Defence University</strong>.
-        </p>
-        <p>
-            🌱 I’m currently learning <strong>Computer Science</strong> and <strong>Software Engineering</strong>.
-        </p>
-<p>
-            🤓 Always learning new things.
-        </p>
-        <p>
+# 👋 Hello, I'm Sashini Prasadika!  
+🚀 **Aspiring Software Engineer | Passionate Coder | Tech Enthusiast**  
 
-        </p>
-   
-        </p>
-        <p>
-            📫 How to reach me: 
-            <a href="mailto:nasprasadika@gmail.com">nasprasadika@gmail.com</a>
-        </p>
-    </div>
-</body>
-</html>
+![Developer at Work](https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif)
+
+## 🌟 About Me  
+
+- 🎓 **Undergraduate Software Engineering Student**  
+- 💻 **Passionate about Web Development, OOP, and Software Design**  
+- 🌱 **Currently Learning:** Java, PHP, and Object-Oriented Analysis & Design  
+- ⚡ **Hobbies:** Coding, Designing Portfolio Templates, Exploring New Tech  
+
+---
+
+## 🛠️ Tech Stack  
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashini-prasadika)  
+
+ 
+
+🚀 **Let's build something amazing together!**  
+
 
