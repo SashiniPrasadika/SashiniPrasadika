@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sashini Prasadika!  
-🚀 **Aspiring Software Engineer | Passionate Coder | Tech Enthusiast**  
+🚀 **Aspiring Software Engineering Undergraduate | Passionate Coder | Tech Enthusiast**  
 
   
 
