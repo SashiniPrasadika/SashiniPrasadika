@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Sashini Prasadika!  
 🚀 **Aspiring Software Engineer | Passionate Coder | Tech Enthusiast**  
 
-![Developer at Work](https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif)
+  
+
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
 
 ## 🌟 About Me  
 
