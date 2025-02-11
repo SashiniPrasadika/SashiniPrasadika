@@ -3,7 +3,7 @@
 
   
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
+<img align="right" width="300" src="https://cdn.dribbble.com/userupload/24469706/file/original-f42b30aadd26f759330b45501b596c4e.gif">
 
 ## 🌟 About Me  
 
