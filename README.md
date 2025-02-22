@@ -3,7 +3,7 @@
 
   
 
-<img align="right" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FLinamohamed89%2FLinamohamed89&psig=AOvVaw2i2Wg-cxLENSyIiIomL8RX&ust=1740278312452000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi9goeg1osDFQAAAAAdAAAAABAE">
+<img align="right" width="300" src="https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46">
 
 ## 🌟 About Me  
 
