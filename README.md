@@ -3,7 +3,7 @@
 
   
 
-<img align="right" width="300" src="https://cdn.dribbble.com/userupload/24469706/file/original-f42b30aadd26f759330b45501b596c4e.gif">
+<img align="right" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FLinamohamed89%2FLinamohamed89&psig=AOvVaw2i2Wg-cxLENSyIiIomL8RX&ust=1740278312452000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi9goeg1osDFQAAAAAdAAAAABAE">
 
 ## 🌟 About Me  
 
