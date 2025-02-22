@@ -3,7 +3,7 @@
 
   
 
-<img align="right" width="300" src="https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46">
+<img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 ## 🌟 About Me  
 
