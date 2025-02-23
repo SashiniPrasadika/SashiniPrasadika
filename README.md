@@ -7,10 +7,10 @@
 
 ## 🌟 About Me  
 
-- 🎓 **Undergraduate Software Engineering Student**  
-- 💻 **Passionate about Web Development, OOP, and Software Design**  
-- 🌱 **Currently Learning:** Java, PHP, and Object-Oriented Analysis & Design  
-- ⚡ **Hobbies:** Coding, Designing Portfolio Templates, Exploring New Tech  
+  - 🎓 **Undergraduate Software Engineering Student**  
+  - 💻 **Passionate about Web Development, OOP, and Software Design**  
+  - 🌱 **Currently Learning:** Java, PHP, and Object-Oriented Analysis & Design  
+  - ⚡ **Hobbies:** Coding, Designing Portfolio Templates, Exploring New Tech  
 
 ---
 
