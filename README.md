@@ -2,7 +2,7 @@
 
 🚀 Aspiring Software Engineer | Web Developer | Tech Explorer
 
-<img align="right" width="210" style="border-radius: 50%; object-fit: cover;" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" width="210" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 🌟 About Me
 
