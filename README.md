@@ -4,6 +4,7 @@
 
 <img align="right" width="210" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 🌟 About Me
+
 I’m an Undergraduate Software Engineering Student with a strong interest in Web Development, Object-Oriented Programming, and Software Design. I enjoy building clean, user-friendly projects and continuously improving my skills by learning new technologies and exploring creative ideas.
 
 🎯 What I Do
