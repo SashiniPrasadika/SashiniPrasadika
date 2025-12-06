@@ -4,54 +4,15 @@
 
 <img align="right" width="210" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 🌟 About Me
+I’m an Undergraduate Software Engineering Student with a strong interest in Web Development, Object-Oriented Programming, and Software Design. I enjoy building clean, user-friendly projects and continuously improving my skills by learning new technologies and exploring creative ideas.
 
-I’m an enthusiastic Software Engineering undergraduate who loves building clean, functional, and user-friendly digital experiences. I enjoy transforming ideas into real-world solutions through code and continuous learning.
+🎯 What I Do
 
-🎓 Undergraduate in Software Engineering
+Develop responsive and interactive web applications
+Work with both frontend and backend technologies
+Practice clean code and organized software design
+Learn and apply OOP concepts in real projects
 
-💡 Passionate about Web Development, OOP, UI/UX, and System Design
-
-🧠 Currently improving skills in Java, PHP, and Object-Oriented Analysis & Design
-
-💼 Interested in full-stack development, modern frameworks, and scalable software systems
-
-🎯 Career Goal: To become a professional full-stack developer and contribute to impactful software projects
-
-⚡ Hobbies: Coding, designing portfolio templates, researching tech trends, and exploring creative projects
-
-🌱 What I’m Currently Working On
-
-Building responsive and dynamic web applications
-
-Strengthening Java OOP & multithreading
-
-Improving problem-solving using DSA
-
-Designing portfolio templates for personal and academic projects
-
-Enhancing skills in PHP + MySQL backend development
-
-🏆 Highlights & Achievements
-
-🛠 Developed a prototype for an Automatic Stamping Machine using Arduino
-
-🌐 Created multiple portfolio templates for a portfolio-builder website
-
-💻 Completed several academic and mini-projects using HTML, CSS, JavaScript, PHP, MySQL, Java, and Python
-
-🎤 Presented software project concepts with strong documentation & UI design
-
-🧩 Soft Skills
-
-✔️ Problem-Solving
-
-✔️ Teamwork & Collaboration
-
-✔️ Time Management
-
-✔️ Creativity & Design Thinking
-
-✔️ Strong Willingness to Learn
 ## 🛠️ Tech Stack  
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
